@@ -1,4 +1,4 @@
-package com.onskulis.proposal.proposal;
+package com.onskulis.proposal;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
